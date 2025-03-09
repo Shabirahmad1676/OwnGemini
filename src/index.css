@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+input::-webkit-input-placeholder{
+  color: black;
+  outline: none;
+  border: none;
+}
